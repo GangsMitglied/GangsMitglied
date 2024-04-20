@@ -6,6 +6,7 @@
 [![Static Badge](https://img.shields.io/badge/EZCORD-%2313ad4c?style=for-the-badge&logo=github&logoColor=white)](https://ezcord.readthedocs.io/en/latest/)
 [![Static Badge](https://img.shields.io/badge/discord.py-%230363ff?style=for-the-badge&logo=Github)](https://discordpy.readthedocs.io/en/stable/)
 [![Static Badge](https://img.shields.io/badge/Discord.js-%232c28e0?style=for-the-badge&logo=Github)](https://discord.js.org/)
+[![Static Badge](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js)](https://nodejs.org/docs/latest/api/)
 [![Static Badge](https://img.shields.io/badge/Butterfly%20Bot-%236813ad?style=for-the-badge&logo=codeigniter&logoColor=white)](https://butterfly.net)
 
 - I like working with **Python** and **Discord bots** 👾
