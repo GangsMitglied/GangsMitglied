@@ -11,4 +11,4 @@
 - I am interested in backend development and databases 🔥
 
 ## Stats
-[![](https://github-readme-stats.vercel.app/api?username=Gangsmitglied&show_icons=true&theme=dracula)](https://github.com/Gangsmitglied)
+[![](https://github-readme-stats.vercel.app/api?username=Gangsmitglied&show_icons=true&theme=dracula)](https://github.com/GangsMitglied)
