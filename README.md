@@ -1,7 +1,7 @@
 # Hey, I'm BlackNexus 👋
 [![Discord](https://img.shields.io/discord/1050422715586183250?style=for-the-badge&logo=discord&logoColor=white&label=Discord&labelColor=black&color=blue)](https://dc.gg/butterfly)
 
-[![SocialMedia](https://cdn.discordapp.com/attachments/1136362096922206360/1246857026684977264/Banner_1_-_Kopie.png?ex=665de998&is=665c9818&hm=12704ce46978a443f05eb474aac0f42854c4d90fa7092fc3adc1d1ae9a1753e4&)](https://dc.gg/butterfly)
+[![SocialMedia](https://cdn.discordapp.com/attachments/1136362096922206360/1246857246936399903/stilknall1.png?ex=66be274d&is=66bcd5cd&hm=dd2eebcd34811b42ce8c4cd6d8803235bcdcb51e36970f6db363a14af12964d6&)](https://dc.gg/butterfly)
 
 | Part of these communities | Languages | Socials | Discord Library | Contact Me |
 | :---: | :---: | :---: | :---: | :---: |
