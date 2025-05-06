@@ -29,31 +29,23 @@
 
 ---
 
+## 🔗 | Some Cool Things I Found
+
+- How old is x version today?
+  - [Alpha 1.2.6](https://howoldisminecraft.today/a1.2.6)
+  - [Beta 1.7.3](https://howoldisminecraft.today/b1.7.3)
+  - [1.7.10](https://howoldisminecraft.today/1.7.10)
+  - [1.8.9](https://howoldisminecraft.today/1.8.9)
+  - [1.12.2](https://howoldisminecraft.today/1.12.2)
+  - [1.16.5](https://howoldisminecraft.today/1.16.5)
+  - [1.17.1](https://howoldisminecraft.today/1.17.1)
+- [Enchant Order](https://iamcal.github.io/enchant-order/)
+- [Optfine Alternatives](https://optifine.alternatives.lambdaurora.dev/)
+
+---
+
 ## 📊 | Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gangsmitglied&show_icons=true&theme=dracula" alt="GitHub Stats"/>
 </p>
-
----
-
-## 🔍 | Some Cool Things I Found
-
-- 📆 **How old is X version today?**
-  - Alpha 1.2.6
-  - Beta 1.7.3
-  - 1.7.10
-  - 1.8.9
-  - 1.12.2
-  - 1.16.5
-  - 1.17.1
-- 📜 **Enchant Order** – Discover the exact order enchantments are applied in Minecraft.
-- 🧩 **OptiFine Alternatives** – Explore modern performance/graphics mods like:
-  - Sodium
-  - Iris Shaders
-  - Lithium
-  - FerriteCore
-  - Rubidium
-
----
-
